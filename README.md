@@ -4,6 +4,7 @@ Currently, I'm an undergraduate CS student at Columbia.
 
 I'm active in artificial intelligence and deep learning research, with a foundation in mathematical and theoretical analysis.
 
+<!--
 ### 💻 Tech Stack
 <p>
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
@@ -31,6 +32,7 @@ I'm active in artificial intelligence and deep learning research, with a foundat
   <img alt="Next.js" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000" />
 </p>
+-->
 
 
 ### 🤝 Socials
