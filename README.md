@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi!
 
-<!--
-**looooonk/looooonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Taehoon, an undergraduate CS student at Columbia.
 
-Here are some ideas to get you started:
+My interests are:
+- Artificial Intelligence
+- Deep Learning
+- Theoretical Machine Learning
+- Large Language Models
+- Fine-tuning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can see more about me at my [portfolio](https://www.taehoonhwang.net/).
+
+Also, feel free to reach out at taehoon.h \[at] columbia.edu
