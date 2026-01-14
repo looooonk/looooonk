@@ -1,6 +1,6 @@
 ## Hi! I'm Taehoon.
 
-Currently, I'm an undergraduate CS student at Columbia.
+Currently, I'm an undergraduate CS student at Columbia and part of its Natural Language Processing Lab.
 
 I'm active in artificial intelligence and deep learning research, with a foundation in mathematical and theoretical analysis.
 
