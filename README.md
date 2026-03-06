@@ -34,8 +34,6 @@ I'm active in artificial intelligence and deep learning research, with a foundat
 </p>
 -->
 
-
-### 🤝 More About Me!
 <p>
   <a href="https://github.com/looooonk/"><img alt="GitHub" src="https://img.shields.io/badge/Github-24292e?style=for-the-badge&logo=github" /></a>
   <a href="https://www.linkedin.com/in/taehoon-hwang/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
